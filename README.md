@@ -107,21 +107,17 @@ Add a new card here when you kick off something new — copy-paste this block, n
 <a name="-github-stats"></a>
 
 <p align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=krishnajaindev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D0D8&text_color=F0F6FC&ring_color=A371F7" width="49%"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=krishnajaindev&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=F0F6FC&langs_count=8" width="39%"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=krishnajaindev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D0D8&text_color=F0F6FC&ring_color=A371F7" height="195"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=krishnajaindev&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=F0F6FC&langs_count=8" height="195"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=krishnajaindev&theme=dark&background=0D1117&border=0D1117&ring=58A6FF&fire=39D0D8&currStreakLabel=F0F6FC&sideNums=F0F6FC&currStreakNum=F0F6FC&sideLabels=8B949E&dates=8B949E" />
+  <img src="https://streak-stats.demolab.com/?user=krishnajaindev&theme=dark&background=0D1117&border=0D1117&ring=58A6FF&fire=39D0D8&currStreakLabel=F0F6FC&sideNums=F0F6FC&currStreakNum=F0F6FC&sideLabels=8B949E&dates=8B949E" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnajaindev&bg_color=0D1117&color=58A6FF&line=39D0D8&point=A371F7&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnajaindev&bg_color=0D1117&color=58A6FF&line=39D0D8&point=A371F7&area=true&hide_border=true" width="95%"/>
 </p>
-<!-- ============================ SNAKE ============================ -->
-<img src="./assets/divider.svg" width="100%"/>
-
-<img src="./assets/icon-stats.svg" width="30" align="left"/>
 
 ### &nbsp;Contribution Snake
 
