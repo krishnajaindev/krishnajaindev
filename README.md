@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/hero-banner.svg" alt="Krishna Jain — Full-Stack Developer" width="100%" draggable="false"/>
+<picture><img src="./assets/hero-banner.svg" alt="Krishna Jain — Full-Stack Developer" width="100%" draggable="false"/></picture>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=39D0D8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Open-Source+Contributor;Always+Building+Something+New" alt="Typing SVG" draggable="false"/>
+<picture><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=39D0D8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Open-Source+Contributor;Always+Building+Something+New" alt="Typing SVG" draggable="false"/></picture>
 
 <br/>
 
@@ -14,11 +14,10 @@
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" draggable="false"/>
+<picture><img src="./assets/divider.svg" width="100%" height="2" draggable="false"/></picture>
 
-### <img src="./assets/icon-about.svg" width="30" align="center" draggable="false"/> &nbsp;&nbsp;About Me
+### <picture><img src="./assets/icon-about.svg" width="30" align="center" draggable="false"/></picture> &nbsp;&nbsp;About Me
 <a name="-about-me"></a>
-
 
 - 🎓 B.Tech Computer Science student, currently interning at **Veersa Technologies**
 - 🧠 Interested in Software Engineering, Artificial Intelligence, Full-Stack Development, Competitive Programming, and Open Source
@@ -27,26 +26,26 @@
 - 💼 **Open to:** SDE and AI-adjacent internship/collaboration opportunities
 - 📍 Based in India
 
-<img src="./assets/divider.svg" width="100%" draggable="false"/>
+<picture><img src="./assets/divider.svg" width="100%" height="2" draggable="false"/></picture>
 
-### <img src="./assets/icon-skills.svg" width="30" align="center" draggable="false"/> &nbsp;&nbsp;Tech Stack
+### <picture><img src="./assets/icon-skills.svg" width="30" align="center" draggable="false"/></picture> &nbsp;&nbsp;Tech Stack
 <a name="️-tech-stack"></a>
 
 <p><b>Languages</b></p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts&theme=dark" draggable="false"/>
+<picture><img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts&theme=dark" draggable="false"/></picture>
 
 <p><b>Frontend</b></p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs&theme=dark" draggable="false"/>
+<picture><img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs&theme=dark" draggable="false"/></picture>
 
 <p><b>Backend &amp; Data</b></p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" draggable="false"/>
+<picture><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" draggable="false"/></picture>
 
 <p><b>Tools &amp; Platforms</b></p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,postman&theme=dark" draggable="false"/>
+<picture><img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,postman&theme=dark" draggable="false"/></picture>
 
-<img src="./assets/divider.svg" width="100%" draggable="false"/>
+<picture><img src="./assets/divider.svg" width="100%" height="2" draggable="false"/></picture>
 
-### <img src="./assets/icon-projects.svg" width="30" align="center" draggable="false"/> &nbsp;&nbsp;Featured Projects
+### <picture><img src="./assets/icon-projects.svg" width="30" align="center" draggable="false"/></picture> &nbsp;&nbsp;Featured Projects
 <a name="-featured-projects"></a>
 
 > This is the only section you need to touch when you start something new — swap the card in, nothing else on the profile depends on it.
@@ -55,7 +54,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**🧭 Margito** &nbsp;<img src="https://img.shields.io/badge/status-in--development-A371F7?style=flat-square" draggable="false"/>
+**🧭 Margito** &nbsp;<picture><img src="https://img.shields.io/badge/status-in--development-A371F7?style=flat-square" draggable="false"/></picture>
 
 AI-powered career guidance platform featuring automated resume analysis, real-time job matching, and an interactive AI mock-interview simulator.
 
@@ -66,7 +65,7 @@ AI-powered career guidance platform featuring automated resume analysis, real-ti
 </td>
 <td width="50%" valign="top">
 
-**💠 SoulWare** &nbsp;<img src="https://img.shields.io/badge/status-active-39D0D8?style=flat-square" draggable="false"/>
+**💠 SoulWare** &nbsp;<picture><img src="https://img.shields.io/badge/status-active-39D0D8?style=flat-square" draggable="false"/></picture>
 
 AI-powered mental wellness ecosystem providing university students with 24/7 anonymous counseling, peer support, and interactive wellness modules.
 
@@ -79,7 +78,7 @@ AI-powered mental wellness ecosystem providing university students with 24/7 ano
 <tr>
 <td width="50%" valign="top">
 
-**🏥 Hospital Management System** &nbsp;<img src="https://img.shields.io/badge/status-completed-58A6FF?style=flat-square" draggable="false"/>
+**🏥 Hospital Management System** &nbsp;<picture><img src="https://img.shields.io/badge/status-completed-58A6FF?style=flat-square" draggable="false"/></picture>
 
 Full-stack healthcare platform featuring secure role-based access (Admin, Doctor, Patient), dynamic appointment management, and automated background task processing.
 
@@ -90,7 +89,7 @@ Full-stack healthcare platform featuring secure role-based access (Admin, Doctor
 </td>
 <td width="50%" valign="top">
 
-**🌐 Personal Portfolio** &nbsp;<img src="https://img.shields.io/badge/status-active-39D0D8?style=flat-square" draggable="false"/>
+**🌐 Personal Portfolio** &nbsp;<picture><img src="https://img.shields.io/badge/status-active-39D0D8?style=flat-square" draggable="false"/></picture>
 
 My personal developer portfolio designed to showcase my journey as a full-stack developer, highlighting my latest projects, technical skills, and professional experience.
 
@@ -102,23 +101,22 @@ My personal developer portfolio designed to showcase my journey as a full-stack 
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" draggable="false"/>
+<picture><img src="./assets/divider.svg" width="100%" height="2" draggable="false"/></picture>
 
-### <img src="./assets/icon-stats.svg" width="30" align="center" draggable="false"/> &nbsp;&nbsp;GitHub Stats
-
+### <picture><img src="./assets/icon-stats.svg" width="30" align="center" draggable="false"/></picture> &nbsp;&nbsp;GitHub Stats
 <a name="-github-stats"></a>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=krishnajaindev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D0D8&text_color=F0F6FC&ring_color=A371F7" height="195" draggable="false"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=krishnajaindev&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=F0F6FC&langs_count=8" height="195" draggable="false"/>
+  <picture><img src="https://github-stats-extended.vercel.app/api?username=krishnajaindev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D0D8&text_color=F0F6FC&ring_color=A371F7" height="195" draggable="false"/></picture>
+  <picture><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=krishnajaindev&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=F0F6FC&langs_count=8" height="195" draggable="false"/></picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=krishnajaindev&theme=dark&background=0D1117&border=0D1117&ring=58A6FF&fire=39D0D8&currStreakLabel=F0F6FC&sideNums=F0F6FC&currStreakNum=F0F6FC&sideLabels=8B949E&dates=8B949E" draggable="false"/>
+  <picture><img src="https://streak-stats.demolab.com/?user=krishnajaindev&theme=dark&background=0D1117&border=0D1117&ring=58A6FF&fire=39D0D8&currStreakLabel=F0F6FC&sideNums=F0F6FC&currStreakNum=F0F6FC&sideLabels=8B949E&dates=8B949E" draggable="false"/></picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnajaindev&bg_color=0D1117&color=58A6FF&line=39D0D8&point=A371F7&area=true&hide_border=true" width="95%" draggable="false"/>
+  <picture><img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnajaindev&bg_color=0D1117&color=58A6FF&line=39D0D8&point=A371F7&area=true&hide_border=true" width="95%" draggable="false"/></picture>
 </p>
 
 ### 🐍 &nbsp;Contribution Snake
@@ -131,25 +129,25 @@ My personal developer portfolio designed to showcase my journey as a full-stack 
   </picture>
 </div>
 
-<img src="./assets/divider.svg" width="100%" draggable="false"/>
+<picture><img src="./assets/divider.svg" width="100%" height="2" draggable="false"/></picture>
 
 ### 🏆 &nbsp;Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy-tawny.vercel.app/?username=krishnajaindev&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" draggable="false"/>
+<picture><img src="https://github-profile-trophy-tawny.vercel.app/?username=krishnajaindev&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" draggable="false"/></picture>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/System_Design-58A6FF?style=for-the-badge" draggable="false"/>
-<img src="https://img.shields.io/badge/Cloud-39D0D8?style=for-the-badge" draggable="false"/>
-<img src="https://img.shields.io/badge/DevOps-A371F7?style=for-the-badge" draggable="false"/>
-<img src="https://img.shields.io/badge/AI-58A6FF?style=for-the-badge" draggable="false"/>
-<img src="https://img.shields.io/badge/Machine_Learning-39D0D8?style=for-the-badge" draggable="false"/>
+<picture><img src="https://img.shields.io/badge/System_Design-58A6FF?style=for-the-badge" draggable="false"/></picture>
+<picture><img src="https://img.shields.io/badge/Cloud-39D0D8?style=for-the-badge" draggable="false"/></picture>
+<picture><img src="https://img.shields.io/badge/DevOps-A371F7?style=for-the-badge" draggable="false"/></picture>
+<picture><img src="https://img.shields.io/badge/AI-58A6FF?style=for-the-badge" draggable="false"/></picture>
+<picture><img src="https://img.shields.io/badge/Machine_Learning-39D0D8?style=for-the-badge" draggable="false"/></picture>
 </p>
 
-<img src="./assets/divider.svg" width="100%" draggable="false"/>
+<picture><img src="./assets/divider.svg" width="100%" height="2" draggable="false"/></picture>
 
-### <img src="./assets/icon-contact.svg" width="30" align="center" draggable="false"/> &nbsp;&nbsp;Let's Connect
+### <picture><img src="./assets/icon-contact.svg" width="30" align="center" draggable="false"/></picture> &nbsp;&nbsp;Let's Connect
 <a name="-lets-connect"></a>
 
 <p align="center">
@@ -160,7 +158,7 @@ My personal developer portfolio designed to showcase my journey as a full-stack 
 
 <!-- Cozy Animated GIF -->
 <p align="center">
-  <img src="./assets/connect-banner.gif" width="100%" alt="Cozy coding animation" draggable="false"/>
+  <picture><img src="./assets/connect-banner.gif" width="100%" alt="Cozy coding animation" draggable="false"/></picture>
 </p>
 
 <p align="center">
@@ -171,6 +169,6 @@ My personal developer portfolio designed to showcase my journey as a full-stack 
 
 Thanks for scrolling this far — that's rarer than a green streak. 🌱
 
-<img src="https://komarev.com/ghpvc/?username=krishnajaindev&label=Profile%20Views&color=58A6FF&style=flat-square" draggable="false"/>
+<picture><img src="https://komarev.com/ghpvc/?username=krishnajaindev&label=Profile%20Views&color=58A6FF&style=flat-square" draggable="false"/></picture>
 
 </div>
