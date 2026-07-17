@@ -1,0 +1,104 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="50%" stop-color="#0D1B2A"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="100%;0%;100%" dur="12s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="50%" stop-color="#A371F7"/>
+      <stop offset="100%" stop-color="#39D0D8"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;200%;100%" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <radialGradient id="orbGrad1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbGrad2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#A371F7" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#A371F7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbGrad3" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#39D0D8" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#39D0D8" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="blurMed"><feGaussianBlur stdDeviation="18"/></filter>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#58A6FF" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- Base -->
+  <rect width="1200" height="320" fill="url(#bgGrad)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+
+  <!-- Floating glow orbs -->
+  <circle cx="130" cy="70" r="90" fill="url(#orbGrad1)" filter="url(#blurMed)">
+    <animate attributeName="cy" values="70;110;70" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1080" cy="60" r="110" fill="url(#orbGrad2)" filter="url(#blurMed)">
+    <animate attributeName="cy" values="60;100;60" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1000" cy="260" r="100" fill="url(#orbGrad3)" filter="url(#blurMed)">
+    <animate attributeName="cx" values="1000;950;1000" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="90" cy="270" r="80" fill="url(#orbGrad1)" filter="url(#blurMed)">
+    <animate attributeName="cx" values="90;150;90" dur="10s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Drifting particles -->
+  <g fill="#58A6FF">
+    <circle cx="200" cy="40" r="2.5" opacity="0.8"><animate attributeName="cy" values="40;300;40" dur="14s" repeatCount="indefinite"/></circle>
+    <circle cx="420" cy="20" r="2" opacity="0.7"><animate attributeName="cy" values="20;300;20" dur="11s" repeatCount="indefinite"/></circle>
+    <circle cx="760" cy="10" r="2.5" opacity="0.75" fill="#A371F7"><animate attributeName="cy" values="10;300;10" dur="16s" repeatCount="indefinite"/></circle>
+    <circle cx="940" cy="30" r="2" opacity="0.7" fill="#39D0D8"><animate attributeName="cy" values="30;300;30" dur="13s" repeatCount="indefinite"/></circle>
+    <circle cx="1140" cy="0" r="2.5" opacity="0.8"><animate attributeName="cy" values="0;300;0" dur="15s" repeatCount="indefinite"/></circle>
+    <circle cx="600" cy="5" r="2" opacity="0.6" fill="#A371F7"><animate attributeName="cy" values="5;300;5" dur="12s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- Name -->
+  <text x="600" y="150" text-anchor="middle" font-family="'Segoe UI', Verdana, sans-serif" font-size="64" font-weight="800" fill="url(#nameGrad)" filter="url(#glow)" opacity="0">
+    Krishna Jain
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.15;1" dur="1.6s" fill="freeze"/>
+  </text>
+
+  <!-- Role -->
+  <text x="600" y="190" text-anchor="middle" font-family="'Segoe UI', Verdana, sans-serif" font-size="21" font-weight="500" fill="#C9D1D9" opacity="0">
+    Full-Stack Developer &#183; AI/ML Enthusiast &#183; Open-Source Builder
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.35;1" dur="2s" fill="freeze"/>
+  </text>
+
+  <!-- Underline accent -->
+  <rect x="500" y="212" width="0" height="3" rx="1.5" fill="url(#nameGrad)">
+    <animate attributeName="width" values="0;200" dur="1s" begin="0.9s" fill="freeze"/>
+    <animate attributeName="x" values="600;500" dur="1s" begin="0.9s" fill="freeze"/>
+  </rect>
+
+  <!-- Tag pills -->
+  <g font-family="'Segoe UI', Verdana, sans-serif" font-size="13.5" font-weight="600" opacity="0">
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.55;1" dur="2.4s" fill="freeze"/>
+
+    <rect x="352" y="248" width="118" height="32" rx="16" fill="#161B22" stroke="#58A6FF" stroke-opacity="0.5"/>
+    <text x="411" y="269" text-anchor="middle" fill="#58A6FF">Building</text>
+
+    <rect x="484" y="248" width="128" height="32" rx="16" fill="#161B22" stroke="#A371F7" stroke-opacity="0.5"/>
+    <text x="548" y="269" text-anchor="middle" fill="#A371F7">Learning</text>
+
+    <rect x="626" y="248" width="128" height="32" rx="16" fill="#161B22" stroke="#39D0D8" stroke-opacity="0.5"/>
+    <text x="690" y="269" text-anchor="middle" fill="#39D0D8">Shipping</text>
+
+    <rect x="768" y="248" width="150" height="32" rx="16" fill="#161B22" stroke="#58A6FF" stroke-opacity="0.5"/>
+    <text x="843" y="269" text-anchor="middle" fill="#58A6FF">Collaborating</text>
+  </g>
+</svg>

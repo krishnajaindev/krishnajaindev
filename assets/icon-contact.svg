@@ -1,0 +1,15 @@
+<svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#39D0D8"/><stop offset="100%" stop-color="#A371F7"/>
+    </linearGradient>
+    <filter id="gl"><feGaussianBlur stdDeviation="1.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <circle cx="20" cy="20" r="18" fill="none" stroke="url(#g)" stroke-width="1.6" opacity="0.35"/>
+  <path d="M9 27L20 13l11 14" fill="none" stroke="url(#g)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" filter="url(#gl)">
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" dur="2.2s" repeatCount="indefinite"/>
+  </path>
+  <path d="M20 13v14" fill="none" stroke="url(#g)" stroke-width="2.2" stroke-linecap="round" opacity="0.85">
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" dur="2.2s" repeatCount="indefinite"/>
+  </path>
+</svg>
