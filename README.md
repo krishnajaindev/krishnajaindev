@@ -69,7 +69,7 @@ AI-powered mental wellness ecosystem providing university students with 24/7 ano
 
 `Next.js` `Node.js` `MongoDB` `FastAPI` `Socket.IO`
 
-<a href="https://github.com/krishnajaindev/SoulWare" target="_blank" rel="noopener noreferrer"><img src="https://github-stats-extended.vercel.app/api/pin/?username=krishnajaindev&repo=SoulWare&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D0D8&text_color=F0F6FC" alt="Repo Stats" draggable="false"/></a>
+<a href="https://github.com/krishnajaindev/SoulWare" target="_blank" rel="noopener noreferrer"><img src="https://github-stats-extended.vercel.app/api/pin/?username=krishnajaindev&repo=SoulWare&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D0D8&text_color=F0F6FC&v=1" alt="Repo Stats" draggable="false"/></a>
 
 </td>
 </tr>
@@ -82,7 +82,7 @@ Full-stack healthcare platform featuring secure role-based access (Admin, Doctor
 
 `Vue 3` `Flask` `SQLite` `Redis` `Celery`
 
-<a href="https://github.com/krishnajaindev/Hospital-Management-System" target="_blank" rel="noopener noreferrer"><img src="https://github-stats-extended.vercel.app/api/pin/?username=krishnajaindev&repo=Hospital-Management-System&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D0D8&text_color=F0F6FC" alt="Repo Stats" draggable="false"/></a>
+<a href="https://github.com/krishnajaindev/Hospital-Management-System" target="_blank" rel="noopener noreferrer"><img src="https://github-stats-extended.vercel.app/api/pin/?username=krishnajaindev&repo=Hospital-Management-System&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D0D8&text_color=F0F6FC&v=1" alt="Repo Stats" draggable="false"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -93,7 +93,7 @@ My personal developer portfolio designed to showcase my journey as a full-stack 
 
 `HTML` `CSS` `JavaScript` `Bootstrap`
 
-<a href="https://github.com/krishnajaindev/krishnajaindev.github.io" target="_blank" rel="noopener noreferrer"><img src="https://github-stats-extended.vercel.app/api/pin/?username=krishnajaindev&repo=krishnajaindev.github.io&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D0D8&text_color=F0F6FC" alt="Repo Stats" draggable="false"/></a>
+<a href="https://github.com/krishnajaindev/krishnajaindev.github.io" target="_blank" rel="noopener noreferrer"><img src="https://github-stats-extended.vercel.app/api/pin/?username=krishnajaindev&repo=krishnajaindev.github.io&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D0D8&text_color=F0F6FC&v=1" alt="Repo Stats" draggable="false"/></a>
 
 </td>
 </tr>
