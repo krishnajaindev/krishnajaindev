@@ -16,10 +16,9 @@
 
 <img src="./assets/divider.svg" width="100%" draggable="false"/>
 
-<img src="./assets/icon-about.svg" width="30" align="left" draggable="false"/>
-
-### &nbsp;About Me
+### <img src="./assets/icon-about.svg" width="30" align="center" draggable="false"/> &nbsp;&nbsp;About Me
 <a name="-about-me"></a>
+
 
 - 🎓 B.Tech Computer Science student, currently interning at **Veersa Technologies**
 - 🧠 Interested in Software Engineering, Artificial Intelligence, Full-Stack Development, Competitive Programming, and Open Source
@@ -30,9 +29,7 @@
 
 <img src="./assets/divider.svg" width="100%" draggable="false"/>
 
-<img src="./assets/icon-skills.svg" width="30" align="left" draggable="false"/>
-
-### &nbsp;Featured Projects
+### <img src="./assets/icon-skills.svg" width="30" align="center" draggable="false"/> &nbsp;&nbsp;Featured Projects
 <a name="-featured-projects"></a>
 
 > This is the only section you need to touch when you start something new — swap the card in, nothing else on the profile depends on it.
@@ -41,13 +38,13 @@
 <tr>
 <td width="50%" valign="top">
 
-**🧭 Pathwise** &nbsp;<img src="https://img.shields.io/badge/status-in--development-A371F7?style=flat-square" draggable="false"/>
+**🧭 Margito** &nbsp;<img src="https://img.shields.io/badge/status-in--development-A371F7?style=flat-square" draggable="false"/>
 
 AI-powered career guidance platform featuring automated resume analysis, real-time job matching, and an interactive AI mock-interview simulator.
 
 `Next.js` `TypeScript` `Node.js` `MongoDB` `Gemini/Groq API`
 
-<a href="https://github.com/krishnajaindev/gyanito" target="_blank" rel="noopener noreferrer"><img src="https://github-stats-extended.vercel.app/api/pin/?username=krishnajaindev&repo=gyanito&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D0D8&text_color=F0F6FC" alt="Repo Stats" draggable="false"/></a>
+<a href="https://github.com/krishnajaindev/Margito" target="_blank" rel="noopener noreferrer"><img src="https://github-stats-extended.vercel.app/api/pin/?username=krishnajaindev&repo=Margito&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D0D8&text_color=F0F6FC" alt="Repo Stats" draggable="false"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -90,8 +87,8 @@ My personal developer portfolio designed to showcase my journey as a full-stack 
 
 <img src="./assets/divider.svg" width="100%" draggable="false"/>
 
-<img src="./assets/icon-stats.svg" width="30" align="left" draggable="false"/>
-### &nbsp;GitHub Stats
+### <img src="./assets/icon-stats.svg" width="30" align="center" draggable="false"/> &nbsp;&nbsp;GitHub Stats
+
 <a name="-github-stats"></a>
 
 <p align="center">
@@ -119,7 +116,7 @@ My personal developer portfolio designed to showcase my journey as a full-stack 
 
 <img src="./assets/divider.svg" width="100%" draggable="false"/>
 
-### 🏆 Achievements
+### &nbsp;Achievements
 
 <p align="center">
 <img src="https://github-profile-trophy-tawny.vercel.app/?username=krishnajaindev&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" draggable="false"/>
@@ -135,9 +132,7 @@ My personal developer portfolio designed to showcase my journey as a full-stack 
 
 <img src="./assets/divider.svg" width="100%" draggable="false"/>
 
-<img src="./assets/icon-contact.svg" width="30" align="left" draggable="false"/>
-
-### &nbsp;Let's Connect
+### <img src="./assets/icon-contact.svg" width="30" align="center" draggable="false"/> &nbsp;&nbsp;Let's Connect
 <a name="-lets-connect"></a>
 
 <p align="center">
