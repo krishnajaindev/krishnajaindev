@@ -60,7 +60,7 @@ AI-powered career guidance platform featuring automated resume analysis, real-ti
 
 `Next.js` `TypeScript` `Node.js` `MongoDB` `Gemini/Groq API`
 
-<a href="https://github.com/krishnajaindev/Margito" target="_blank" rel="noopener noreferrer"><img src="https://github-stats-extended.vercel.app/api/pin/?username=krishnajaindev&repo=Margito&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D0D8&text_color=F0F6FC" alt="Repo Stats" draggable="false"/></a>
+<a href="https://github.com/krishnajaindev/Margito" target="_blank" rel="noopener noreferrer"><img src="https://github-stats-extended.vercel.app/api/pin/?username=krishnajaindev&repo=Margito&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D0D8&text_color=F0F6FC&v=1" alt="Repo Stats" draggable="false"/></a>
 
 </td>
 <td width="50%" valign="top">
