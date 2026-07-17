@@ -107,8 +107,8 @@ Add a new card here when you kick off something new — copy-paste this block, n
 <a name="-github-stats"></a>
 
 <p align="center">
-<img src="[https://github-readme-stats.vercel.app/api?username=krishnajaindev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D0D8&text_color=F0F6FC&ring_color=A371F7](https://github-stats-extended.vercel.app/api?username=krishnajaindev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D0D8&text_color=F0F6FC&ring_color=A371F7)" width="49%"/>
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=krishnajaindev&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=F0F6FC&langs_count=8](https://github-stats-extended.vercel.app/api/top-langs/?username=krishnajaindev&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=F0F6FC&langs_count=8)" width="39%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=krishnajaindev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D0D8&text_color=F0F6FC&ring_color=A371F7" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=krishnajaindev&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=F0F6FC&langs_count=8" width="39%"/>
 </p>
 
 <p align="center">
