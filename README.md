@@ -19,9 +19,9 @@
 ### <picture><img src="./assets/icon-about.svg" width="30" align="center" draggable="false"/></picture> &nbsp;&nbsp;About Me
 <a name="-about-me"></a>
 
-- 🎓 B.Tech Computer Science student, currently interning at **Veersa Technologies**
+- 🎓 B.Tech Computer Science and Engineering student, currently interning at **Veersa Technologies**
 - 🧠 Interested in Software Engineering, Artificial Intelligence, Full-Stack Development, Competitive Programming, and Open Source
-- 🛠️ I like building things end-to-end — from data model to deployed UI — rather than staying in one layer of the stack
+- 🛠️ I like building things end-to-end from data model to deployed UI, rather than staying in one layer of the stack
 - 🌱 **Currently exploring:** System Design, Cloud & DevOps fundamentals, and applied Machine Learning
 - 💼 **Open to:** SDE and AI-adjacent internship/collaboration opportunities
 - 📍 Based in India
@@ -47,8 +47,6 @@
 
 ### <picture><img src="./assets/icon-projects.svg" width="30" align="center" draggable="false"/></picture> &nbsp;&nbsp;Featured Projects
 <a name="-featured-projects"></a>
-
-> This is the only section you need to touch when you start something new — swap the card in, nothing else on the profile depends on it.
 
 <table>
 <tr>
@@ -131,21 +129,6 @@ My personal developer portfolio designed to showcase my journey as a full-stack 
 
 <picture><img src="./assets/divider.svg" width="100%" height="2" draggable="false"/></picture>
 
-### 🏆 &nbsp;Achievements
-
-<p align="center">
-<picture><img src="https://github-profile-trophy-tawny.vercel.app/?username=krishnajaindev&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" draggable="false"/></picture>
-</p>
-
-<p align="center">
-<picture><img src="https://img.shields.io/badge/System_Design-58A6FF?style=for-the-badge" draggable="false"/></picture>
-<picture><img src="https://img.shields.io/badge/Cloud-39D0D8?style=for-the-badge" draggable="false"/></picture>
-<picture><img src="https://img.shields.io/badge/DevOps-A371F7?style=for-the-badge" draggable="false"/></picture>
-<picture><img src="https://img.shields.io/badge/AI-58A6FF?style=for-the-badge" draggable="false"/></picture>
-<picture><img src="https://img.shields.io/badge/Machine_Learning-39D0D8?style=for-the-badge" draggable="false"/></picture>
-</p>
-
-<picture><img src="./assets/divider.svg" width="100%" height="2" draggable="false"/></picture>
 
 ### <picture><img src="./assets/icon-contact.svg" width="30" align="center" draggable="false"/></picture> &nbsp;&nbsp;Let's Connect
 <a name="-lets-connect"></a>
@@ -162,13 +145,11 @@ My personal developer portfolio designed to showcase my journey as a full-stack 
 </p>
 
 <p align="center">
-  <i>⚡ "Consistency beats intensity."</i>
+  <i>⏳ "Slow progress is still progress." </i>
 </p>
 
 <div align="center">
 
-Thanks for scrolling this far — that's rarer than a green streak. 🌱
-
-<picture><img src="https://komarev.com/ghpvc/?username=krishnajaindev&label=Profile%20Views&color=58A6FF&style=flat-square" draggable="false"/></picture>
+👨🏻‍💻 Thanks for scrolling this far that's rarer than a green streak. 🌱
 
 </div>
