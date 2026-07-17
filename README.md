@@ -119,7 +119,11 @@ Add a new card here when you kick off something new — copy-paste this block, n
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnajaindev&bg_color=0D1117&color=58A6FF&line=39D0D8&point=A371F7&area=true&hide_border=true" width="95%"/>
 </p>
 <!-- ============================ SNAKE ============================ -->
-### Contribution Snake
+<img src="./assets/divider.svg" width="100%"/>
+
+<img src="./assets/icon-stats.svg" width="30" align="left"/>
+
+### &nbsp;Contribution Snake
 
 <div align="center">
   <picture>
