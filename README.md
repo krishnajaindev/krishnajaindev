@@ -99,7 +99,7 @@ Add a new card here when you kick off something new — copy-paste this block, n
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 <img src="./assets/icon-stats.svg" width="30" align="left"/>
 
@@ -118,10 +118,16 @@ Add a new card here when you kick off something new — copy-paste this block, n
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnajaindev&bg_color=0D1117&color=58A6FF&line=39D0D8&point=A371F7&area=true&hide_border=true" width="95%"/>
 </p>
+<!-- ============================ SNAKE ============================ -->
+### Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/krishnajaindev/krishnajaindev/output/github-contribution-grid-snake.svg" width="95%"/>
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishnajaindev/krishnajaindev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishnajaindev/krishnajaindev/output/github-contribution-grid-snake.svg" />
+    <img alt="A snake eating through my GitHub contribution graph" src="https://raw.githubusercontent.com/krishnajaindev/krishnajaindev/output/github-contribution-grid-snake.svg" width="90%" />
+  </picture>
+</div>
 
 <img src="./assets/divider.svg" width="100%"/>
 
@@ -139,7 +145,7 @@ Add a new card here when you kick off something new — copy-paste this block, n
 <img src="https://img.shields.io/badge/Machine_Learning-39D0D8?style=for-the-badge"/>
 </p>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 <img src="./assets/icon-contact.svg" width="30" align="left"/>
 
