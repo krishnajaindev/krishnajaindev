@@ -29,7 +29,24 @@
 
 <img src="./assets/divider.svg" width="100%" draggable="false"/>
 
-### <img src="./assets/icon-skills.svg" width="30" align="center" draggable="false"/> &nbsp;&nbsp;Featured Projects
+### <img src="./assets/icon-skills.svg" width="30" align="center" draggable="false"/> &nbsp;&nbsp;Tech Stack
+<a name="️-tech-stack"></a>
+
+<p><b>Languages</b></p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts&theme=dark" draggable="false"/>
+
+<p><b>Frontend</b></p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs&theme=dark" draggable="false"/>
+
+<p><b>Backend &amp; Data</b></p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" draggable="false"/>
+
+<p><b>Tools &amp; Platforms</b></p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,postman&theme=dark" draggable="false"/>
+
+<img src="./assets/divider.svg" width="100%" draggable="false"/>
+
+### <img src="./assets/icon-projects.svg" width="30" align="center" draggable="false"/> &nbsp;&nbsp;Featured Projects
 <a name="-featured-projects"></a>
 
 > This is the only section you need to touch when you start something new — swap the card in, nothing else on the profile depends on it.
@@ -104,7 +121,7 @@ My personal developer portfolio designed to showcase my journey as a full-stack 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnajaindev&bg_color=0D1117&color=58A6FF&line=39D0D8&point=A371F7&area=true&hide_border=true" width="95%" draggable="false"/>
 </p>
 
-### &nbsp;Contribution Snake
+### 🐍 &nbsp;Contribution Snake
 
 <div align="center">
   <picture>
@@ -116,7 +133,7 @@ My personal developer portfolio designed to showcase my journey as a full-stack 
 
 <img src="./assets/divider.svg" width="100%" draggable="false"/>
 
-### &nbsp;Achievements
+### 🏆 &nbsp;Achievements
 
 <p align="center">
 <img src="https://github-profile-trophy-tawny.vercel.app/?username=krishnajaindev&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" draggable="false"/>
@@ -139,6 +156,15 @@ My personal developer portfolio designed to showcase my journey as a full-stack 
 <a href="https://www.linkedin.com/in/krishnajaindev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" draggable="false"/></a>
 <a href="https://github.com/krishnajaindev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-58A6FF?style=for-the-badge&logo=github&logoColor=white" draggable="false"/></a>
 <a href="https://leetcode.com/u/krishnajain-dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" draggable="false"/></a>
+</p>
+
+<!-- Cozy Animated GIF -->
+<p align="center">
+  <img src="./assets/connect-banner.gif" width="100%" alt="Cozy coding animation" draggable="false"/>
+</p>
+
+<p align="center">
+  <i>⚡ "Consistency beats intensity."</i>
 </p>
 
 <div align="center">
