@@ -22,44 +22,37 @@
 
 <!-- ============================ HERO ============================ -->
 <div align="center">
-  <img src="./assets/hero-banner.svg" width="100%" alt="Krishna Jain — Full-Stack Developer, AI Systems Builder" />
+  <img src="./assets/hero-banner.svg" width="100%" alt="Krishna Jain — Full-Stack Developer" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=39D0D8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Competitive+Programmer;Open-Source+Contributor;Always+Building+Something+New" alt="Typing SVG" />
+  </a>
+
   <img src="./assets/wave-divider.svg" width="100%" alt="" />
 </div>
 
 <br/>
 
 <!-- ============================ ABOUT ============================ -->
-### About Me
+### 👤 About Me
 
 - 🎓 B.Tech Computer Science student, currently interning at **Veersa Technologies**
 - 🧠 Interested in Software Engineering, Artificial Intelligence, Full-Stack Development, Competitive Programming, and Open Source
 - 🛠️ I like building things end-to-end — from data model to deployed UI — rather than staying in one layer of the stack
 - 📍 Based in India
 
+<div align="center"><img src="./assets/wave-divider.svg" width="55%" alt="" /></div>
+
 <!-- ============================ FOCUS ============================ -->
-### Current Focus
+### 🎯 Current Focus
 
-<table>
-<tr>
-<td width="70%">
+> Update this block whenever your focus shifts — nothing else in the profile depends on it.
 
-**🚧 Building [Pathwise](#)** — an AI-powered career guidance and job-readiness platform: resume analysis, live job matching, skill-gap analysis, personalized learning roadmaps, and an AI mock-interview simulator.
+- 🚧 **Building Pathwise** — an AI-powered career guidance and job-readiness platform: resume analysis, live job matching, skill-gap analysis, personalized learning roadmaps, and an AI mock-interview simulator
+- 📚 **Leveling up in:** System Design, Cloud & DevOps fundamentals, and applied Machine Learning
+- 💼 **Open to:** SDE and AI-adjacent internship/collaboration opportunities
 
-**📚 Leveling up in:** System Design, Cloud & DevOps fundamentals, and applied Machine Learning.
-
-**💼 Open to:** SDE and AI-adjacent internship/collaboration opportunities.
-
-</td>
-<td width="30%" align="center">
-
-&nbsp;
-
-🎯 **Focusing**
-Ship something real this semester
-
-</td>
-</tr>
-</table>
+<div align="center"><img src="./assets/wave-divider.svg" width="55%" alt="" /></div>
 
 <!-- ============================ STACK ============================ -->
 ### Tech Stack
