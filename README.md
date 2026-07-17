@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero-banner.svg" alt="Krishna Jain — Full-Stack Developer" width="100%"/>
+<img src="./assets/hero-banner.svg" alt="Krishna Jain — Full-Stack Developer" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=39D0D8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Open-Source+Contributor;Always+Building+Something+New" alt="Typing SVG" />
 
@@ -14,9 +14,9 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
-<img src="assets/icon-about.svg" width="30" align="left"/>
+<img src="./assets/icon-about.svg" width="30" align="left"/>
 
 ### &nbsp;About Me
 <a name="-about-me"></a>
@@ -28,9 +28,9 @@
 - 💼 **Open to:** SDE and AI-adjacent internship/collaboration opportunities
 - 📍 Based in India
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
-<img src="assets/icon-skills.svg" width="30" align="left"/>
+<img src="./assets/icon-skills.svg" width="30" align="left"/>
 
 ### &nbsp;Tech Stack
 <a name="️-tech-stack"></a>
@@ -47,9 +47,9 @@
 <p><b>Tools &amp; Platforms</b></p>
 <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,postman&theme=dark" />
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
-<img src="assets/icon-projects.svg" width="30" align="left"/>
+<img src="./assets/icon-projects.svg" width="30" align="left"/>
 
 ### &nbsp;Featured Projects
 <a name="-featured-projects"></a>
@@ -101,7 +101,7 @@ Add a new card here when you kick off something new — copy-paste this block, n
 
 <img src="assets/divider.svg" width="100%"/>
 
-<img src="assets/icon-stats.svg" width="30" align="left"/>
+<img src="./assets/icon-stats.svg" width="30" align="left"/>
 
 ### &nbsp;GitHub Stats
 <a name="-github-stats"></a>
@@ -123,7 +123,7 @@ Add a new card here when you kick off something new — copy-paste this block, n
 <img src="https://raw.githubusercontent.com/krishnajaindev/krishnajaindev/output/github-contribution-grid-snake.svg" width="95%"/>
 </p>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 ### 🏆 Achievements
 
@@ -141,7 +141,7 @@ Add a new card here when you kick off something new — copy-paste this block, n
 
 <img src="assets/divider.svg" width="100%"/>
 
-<img src="assets/icon-contact.svg" width="30" align="left"/>
+<img src="./assets/icon-contact.svg" width="30" align="left"/>
 
 ### &nbsp;Let's Connect
 <a name="-lets-connect"></a>
